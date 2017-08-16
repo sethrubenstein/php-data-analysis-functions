@@ -1,5 +1,5 @@
 <?php
-namespace pewresearch;
+namespace sethrubenstein;
 
 class clusterAnalysis {
 
